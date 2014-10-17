@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rat:home|Door43 (rat)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rat|d43-rat repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rat/archive/master.zip|d43-rat.zip]]
+
+**Recent Changes**
+{{changes>ns = rat}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rat|Ethnologue data]]
+
